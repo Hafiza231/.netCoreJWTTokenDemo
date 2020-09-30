@@ -1,0 +1,14 @@
+D:\.net core\JWTTokenDemo\JWTTokenDemo\bin\Debug\netcoreapp2.2\JWTTokenDemo.deps.json
+D:\.net core\JWTTokenDemo\JWTTokenDemo\bin\Debug\netcoreapp2.2\JWTTokenDemo.runtimeconfig.json
+D:\.net core\JWTTokenDemo\JWTTokenDemo\bin\Debug\netcoreapp2.2\JWTTokenDemo.runtimeconfig.dev.json
+D:\.net core\JWTTokenDemo\JWTTokenDemo\bin\Debug\netcoreapp2.2\JWTTokenDemo.dll
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.csprojAssemblyReference.cache
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.csproj.CoreCompileInputs.cache
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.RazorAssemblyInfo.cache
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.RazorAssemblyInfo.cs
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.AssemblyInfoInputs.cache
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.AssemblyInfo.cs
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.RazorTargetAssemblyInfo.cache
+D:\.net core\JWTTokenDemo\JWTTokenDemo\bin\Debug\netcoreapp2.2\JWTTokenDemo.pdb
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.dll
+D:\.net core\JWTTokenDemo\JWTTokenDemo\obj\Debug\netcoreapp2.2\JWTTokenDemo.pdb
